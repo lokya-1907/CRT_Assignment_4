@@ -23,11 +23,6 @@ A clean, responsive login page built using **HTML**, **CSS**, **Bootstrap**, and
 | Bootstrap 5  | Layout and responsive design |
 | JavaScript   | Form validation with Promises|
 
----
-
-## 📸 UI Preview
-
-> _(Include a screenshot or GIF if available)_
 
 ---
 
